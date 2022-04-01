@@ -46,8 +46,23 @@ Seules les publications des types suivants ont été conservées: *`Live Video`*
 
 Pour chacune de ces publications vidéo, trois différentes valeurs de vues étaient disponibles: *`Post Views`*, *`Total Views`* et *`Total Views For All Crossposts`*. Selon [la description que fait CrowdTangle de ses données](https://help.crowdtangle.com/en/articles/3213537-crowdtangle-codebook), la première mesure le nombre de vues d'une vidéo directement à partir du *post*. La deuxième (*Total Views*) inclut aussi le nombre de vues enregistrées lorsqu'une vidéo est partagée. La troisième inclut des vues enregistrées à l'extérieur du média lorsque celui-ci partage une vidéo qu'il n'a pas produite lui-même. **C'est la variable *`Total Views`* qui a été conservée**.
 
-Il y a deux autre paramètres qui peuvent être rattachés aux contenus vidéos:
-* Le premier est appelé *`Video Share Status`*. Ce paramètre nous informe sur la provenance d'une vidéo publiée par une page. Il peut prendre quatre valeurs différentes: *`owned`*, *`share`*, *`crosspost`* ou être vide. Seules les vidéos marquées *`owned`* ont été conservées, car elles ont plus de chances d'avoir été réalisées par le média lui-même.
-* Le deuxième est appelé *`Is video owner?`*. Ce paramètre nous dit si une vidéo mise en ligne par une page lui appartient ou pas. Seules les vidéos marquées *`Yes`* ont été conservées. Cette opération peut paraître redondante. Mais elle est quand même nécessaire, car étrangement, dans le jeu de données fourni par CrowdTangle, quatre vidéos dont le statut est *`owned`* indiquaient *`No`* au paramètre *`Is video owner?`*!
+Il y a deux autres paramètres qui sont rattachés aux contenus vidéos:
+* Le premier est appelé *`Video Share Status`*. Ce paramètre nous informe sur la provenance d'une vidéo publiée par une page. Il peut prendre quatre valeurs différentes: *`owned`*, *`share`*, *`crosspost`* ou être vide. **Seules les vidéos marquées *`owned`* ont été conservées**, car elles ont plus de chances d'avoir été réalisées par le média lui-même.
+* Le deuxième est appelé *`Is video owner?`*. Ce paramètre nous dit si une vidéo mise en ligne par une page lui appartient ou pas. **Seules les vidéos marquées *`Yes`* ont été conservées**. Cette opération peut paraître redondante. Mais elle est quand même nécessaire, car étrangement, dans le jeu de données fourni par CrowdTangle, quatre vidéos dont le statut est *`owned`* indiquaient *`No`* au paramètre *`Is video owner?`*!
+
+Le tableau ci-dessous donne les résultats pour tous les médias ayant mis en ligne 50 vidéos ou plus (environ un par semaine) correspondant aux critères ci-dessus.
+
+| **_Média_** | **Nombre de vidéos<br>(_owned_ + _Yes_)** | **Vues totales** | **Vues/vidéo** |
+|----------------------------|----------------:|-----------------:|---------------:|
+| _Radio-Canada Information_ | 889 | 33&nbsp;041&nbsp;910 | 37&nbsp;167,5 |
+| _Le Devoir_ | 301 | 10&nbsp;007&nbsp;449 | 33&nbsp;247,3 |
+| _RDS_ | 808 | 26&nbsp;188&nbsp;215 | 32&nbsp;411,2 |
+| _URBANIA_ | 194 | 6&nbsp;011&nbsp;950 | 30&nbsp;989,4 |
+| _24 heures_ | 144 | 2&nbsp;438&nbsp;101 | 16&nbsp;931,3 |
+| _Journal Métro_ | 58 | 627&nbsp;281 | 10&nbsp;815,2 |
+| _Noovo Info_ | 609 | 5&nbsp;002&nbsp;130 | 8&nbsp;213,7 |
+| _Coops de l'information_ | 416 | 3&nbsp;133&nbsp;078 | 7&nbsp;531,4 |
+
+Vous pourrez reproduire toutes ces étapes à partir du fichier **[videosFB.csv](videosFB.csv)** qui contient les données brutes des 11&nbsp;070 *posts* vidéo mis en ligne par les 19 médias sur la période étudiée. Afin de respecter les conditions d'utilisation de CrowdTangle, certains champs textuels ont été retranchés.
 
 [^coops]: Les données sur les six journaux des Coopératives de l'information ont été jumelées.
