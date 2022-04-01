@@ -78,15 +78,15 @@ Comme on ne s'intéresse qu'aux vidéos d'information, ce ne sont que les public
 
 | **_média_** | **Publications Instagram** | **Nombre d’albums** | **Nombre de photos** | **Nombre de vidéos** | **Vues (vidéos)** | **vues/vidéo** |
 |--------|---------:|------:|-------:|-------:|------:|-----:|
-| _Rad_ | 435 | 382 | 1 | 52 | 1&nbsp;327&nbsp;303 | 25&nbsp;525,1 |
-| _URBANIA_ | 343 | 103 | 63 | 177 | 2&nbsp;595&nbsp;228 | 14&nbsp;662,3 |
-| _Le Devoir_ | 1&nbsp;729 | 697 | 935 | 97 | 1&nbsp;226&nbsp;261 | 12&nbsp;641,9 |
-| _TVA Nouvelles_ | 158 | 17 | 9 | 132 | 1&nbsp;505&nbsp;795 | 11&nbsp;407,5 |
-| _RDS_ | 1&nbsp;217 | 39 | 1&nbsp;013 | 165 | 1&nbsp;316&nbsp;152 | 7&nbsp;976,7 |
-| _Radio-Canada Information_ | 1&nbsp;234 | 906 | 50 | 278 | 1&nbsp;756&nbsp;192 | 6&nbsp;&nbsp;317,2 |
-| _MAJ_ | 181 | 68 | 31 | 82 | 380&nbsp;150 | 4&nbsp;636,0 |
-| _24 heures_ | 522 | 339 | 51 | 132 | 184&nbsp;827 | 1&nbsp;400,2 |
-| _Noovo Info_ | 557 | 106 | 37 | 414 | 316&nbsp;909 | 765,5 |
-| _Coops de l'information_ | 993 | 404 | 505 | 84 | 11&nbsp;850 | 141,1 |
+| _Rad_ | 435 | 382 | 1 | 52 | 1&nbsp;327&nbsp;303 | **25&nbsp;525,1** |
+| _URBANIA_ | 343 | 103 | 63 | 177 | 2&nbsp;595&nbsp;228 | **14&nbsp;662,3** |
+| _Le Devoir_ | 1&nbsp;729 | 697 | 935 | 97 | 1&nbsp;226&nbsp;261 | **12&nbsp;641,9** |
+| _TVA Nouvelles_ | 158 | 17 | 9 | 132 | 1&nbsp;505&nbsp;795 | **11&nbsp;407,5** |
+| _RDS_ | 1&nbsp;217 | 39 | 1&nbsp;013 | 165 | 1&nbsp;316&nbsp;152 | **7&nbsp;976,7** |
+| _Radio-Canada Information_ | 1&nbsp;234 | 906 | 50 | 278 | 1&nbsp;756&nbsp;192 | **6&nbsp;&nbsp;317,2** |
+| _MAJ_ | 181 | 68 | 31 | 82 | 380&nbsp;150 | **4&nbsp;636,0** |
+| _24 heures_ | 522 | 339 | 51 | 132 | 184&nbsp;827 | **1&nbsp;400,2** |
+| _Noovo Info_ | 557 | 106 | 37 | 414 | 316&nbsp;909 | **765,5** |
+| _Coops de l'information_ | 993 | 404 | 505 | 84 | 11&nbsp;850 | **141,1** |
 
 [^coops]: Les données sur les six journaux des Coopératives de l'information ont été jumelées.
