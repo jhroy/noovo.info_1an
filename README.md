@@ -63,6 +63,6 @@ Le tableau ci-dessous donne les résultats pour tous les médias ayant mis en li
 | _Noovo Info_ | 609 | 5&nbsp;002&nbsp;130 | 8&nbsp;213,7 |
 | _Coops de l'information_ | 416 | 3&nbsp;133&nbsp;078 | 7&nbsp;531,4 |
 
-Vous pourrez reproduire toutes ces étapes à partir du fichier **[videosFB.csv](videosFB.csv)** qui contient les données brutes des 11&nbsp;070 *posts* vidéo mis en ligne par les 19 médias sur la période étudiée. Afin de respecter les conditions d'utilisation de CrowdTangle, certains champs textuels ont été retranchés.
+Vous pourrez reproduire toutes ces étapes à partir du fichier **[videosFB.csv](videosFB.csv)** qui contient les données brutes des 5&nbsp;946 *posts* vidéo mis en ligne par les 19 médias sur la période étudiée. Afin de respecter les conditions d'utilisation de CrowdTangle, certains champs textuels ont été retranchés.
 
 [^coops]: Les données sur les six journaux des Coopératives de l'information ont été jumelées.
