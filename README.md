@@ -94,16 +94,16 @@ Le fichier **[videosIG.csv](videosIG.csv)** contient les donnéess brutes des qu
 Cette plateforme a été ajoutée à cette analyse rapide parce que Noovo.info y diffuse des vidéos d'information. Seulement sept autres des 19 médias identifiés en font de même.
 
 Ici, pour chaque média, le code HTML de la version web de son compte TikTok a été téléchargé le 22 mars 2022, vers 11h00:
-* 24h.html
-* devoir.html
-* latribune.html
-* maj.html
-* noovo.html
-* rad.html
-* tva.html
-* urbania.html
+* **[24h.html](24h.html)**
+* **[devoir.html](devoir.html)**
+* **[latribune.html](latribune.html)**
+* **[maj.html](maj.html)**
+* **[noovo.html](noovo.html)**
+* **[rad.html](rad.html)**
+* **[tva.html](tva.html)**
+* **[urbania.html](urbania.html)**
 
-Chaque page réunit toutes les vidéos TikTok diffusées jusqu'à maintenant par ces médias. Pour chaque vidéo, on a un décompte du nombre de vues dans le coin inférieur droit. Le script [tiktok.py](tiktok.py) fait la somme de ces vues et du nombre de vidéos pour chacun des huit médias diffusant sur TikTok. Le tableau ci-dessous vous présente le résultat du décompte effectué par ce script.
+Chaque page réunit toutes les vidéos TikTok diffusées jusqu'à maintenant par ces médias. Pour chaque vidéo, on a un décompte du nombre de vues dans le coin inférieur droit. Le script **[tiktok.py](tiktok.py)** fait la somme de ces vues et du nombre de vidéos pour chacun des huit médias diffusant sur TikTok. Le tableau ci-dessous vous présente le résultat du décompte effectué par ce script.
 
 | **_Média_**   | **Nombre de vidéos** | **Nombre d’abonnés** | **Nombre de j’aime** | **Somme des vues** |  **Vues/vidéo** |
 |------|-------:|-------:|-------:|-------:|----:|
@@ -115,5 +115,7 @@ Chaque page réunit toutes les vidéos TikTok diffusées jusqu'à maintenant par
 | _TVA Nouvelles_ | 82 |  5&nbsp;801 | 27&nbsp;300 | 481&nbsp;957 |  **5&nbsp;877,5** |
 | _Le Devoir_ | 16 |   660 |  2&nbsp;221 |  23&nbsp;582 |  **1&nbsp;473,9** |
 | _La Tribune_ | 13 | 57 | 75 |   5&nbsp;754 |   **442,6** |
+
+<hr>
 
 [^coops]: Les données sur les six journaux des Coopératives de l'information ont été jumelées.
