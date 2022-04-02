@@ -63,9 +63,7 @@ Le tableau ci-dessous donne les résultats pour tous les médias ayant mis en li
 | _Noovo Info_ | 609 | 5&nbsp;002&nbsp;130 | **8&nbsp;213,7** |
 | _Coops de l'information_ | 416 | 3&nbsp;133&nbsp;078 | **7&nbsp;531,4** |
 
-Vous pourrez reproduire toutes ces étapes à partir du fichier **[videosFB.csv](videosFB.csv)** qui contient les données brutes des 5&nbsp;946 *posts* vidéo mis en ligne par les 19 médias sur la période étudiée. Afin de respecter les conditions d'utilisation de CrowdTangle, certains champs textuels ont été retranchés.
-
-<hr>
+Vous pourrez reproduire toutes ces étapes à partir du fichier **[videosFB.csv](videosFB.csv)** qui contient les données brutes des 5&nbsp;946 *posts* vidéo mis en ligne par les 19 médias sur la période étudiée. Afin de respecter les [conditions d'utilisation de CrowdTangle](https://www.crowdtangle.com/terms/), certains champs textuels ont été retranchés.
 
 ### Instagram
 
@@ -88,5 +86,9 @@ Comme on ne s'intéresse qu'aux vidéos d'information, ce ne sont que les public
 | _24 heures_ | 522 | 339 | 51 | 132 | 184&nbsp;827 | **1&nbsp;400,2** |
 | _Noovo Info_ | 557 | 106 | 37 | 414 | 316&nbsp;909 | **765,5** |
 | _Coops de l'information_ | 993 | 404 | 505 | 84 | 11&nbsp;850 | **141,1** |
+
+Le fichier **[videosIG.csv](videosIG.csv)** contient les donnéess brutes des quelque 9&nbsp;113 publications que les 19 médias sélectionnés ont mis en ligne au cours de la période couverte par cette analyse. Ici encore, afin de respecter les conditions d'utilisation de CrowdTangle, certains champs textuels ont été retranchés de ce fichier.
+
+## TikTok
 
 [^coops]: Les données sur les six journaux des Coopératives de l'information ont été jumelées.
