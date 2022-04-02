@@ -118,4 +118,6 @@ Chaque page réunit toutes les vidéos TikTok diffusées jusqu'à maintenant par
 
 <hr>
 
+Cette analyse fait suite à [celle, plus exhaustive, effectuée l'an dernier au lancement de Noovo.info](https://github.com/jhroy/noovo)
+
 [^coops]: Les données sur les six journaux des Coopératives de l'information ont été jumelées.
