@@ -72,9 +72,9 @@ Les données fournies par CrowdTangle pour les publications Instagram sont plus 
 * Photo
 * Vidéo
 
-Comme on ne s'intéresse qu'aux vidéos d'information, ce ne sont que les publications de ce troisième type qu'on a conservées. Il suffisait ensuite d'aller chercher le nombre total de vues pour ces vidéos. Le tableau ci-dessous nous donne, pour les médias
+Comme on ne s'intéresse qu'aux vidéos d'information, ce ne sont que les publications de ce troisième type qu'on a conservées. Il suffisait ensuite d'aller chercher le nombre total de vues pour ces vidéos. Le tableau ci-dessous nous donne, pour les médias de notre échantillon ayant mis en ligne plus de 50 vidéos au cours de l'année étudiée, les statistiques complètes de leurs publications dans Instagram. Les trois colonnes de droite concernent les vidéos que ces médias y ont diffusées.
 
-| **_média_** | **Publications Instagram** | **Nombre d’albums** | **Nombre de photos** | **Nombre de vidéos** | **Vues (vidéos)** | **vues/vidéo** |
+| **_média_** | **Publications Instagram<br>(albmus+photos+vidéos)** | **Nombre d’albums** | **Nombre de photos** | **Nombre de vidéos** | **Vues (vidéos)** | **Vues/vidéo** |
 |--------|---------:|------:|-------:|-------:|------:|-----:|
 | _Rad_ | 435 | 382 | 1 | 52 | 1&nbsp;327&nbsp;303 | **25&nbsp;525,1** |
 | _URBANIA_ | 343 | 103 | 63 | 177 | 2&nbsp;595&nbsp;228 | **14&nbsp;662,3** |
@@ -90,5 +90,10 @@ Comme on ne s'intéresse qu'aux vidéos d'information, ce ne sont que les public
 Le fichier **[videosIG.csv](videosIG.csv)** contient les donnéess brutes des quelque 9&nbsp;113 publications que les 19 médias sélectionnés ont mis en ligne au cours de la période couverte par cette analyse. Ici encore, afin de respecter les conditions d'utilisation de CrowdTangle, certains champs textuels ont été retranchés de ce fichier.
 
 ## TikTok
+
+Cette plateforme a été ajoutée à cette analyse rapide parce que Noovo.info y diffuse des vidéos d'information. Seulement sept autres des 19 médias identifiés en font de même.
+
+Ici, pour chaque média, le code HTML de la version web de son compte TikTok a été téléchargé:
+*
 
 [^coops]: Les données sur les six journaux des Coopératives de l'information ont été jumelées.
